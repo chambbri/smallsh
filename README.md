@@ -6,8 +6,8 @@ Smallsh does the following:
 * Prints an interactive input prompt
 * Parses command line input into semantic tokens
 * Implements parameter expansion
-* Handles shell special parameters $$, $?, and $!
-* Tilde (~) expansion
+- Handles shell special parameters '$$', '$?', and '$!'
+- Tilde (~) expansion
 * Implements two shell built-in commands: exit and cd
 * Executes non-built-in commands using the the appropriate EXEC(3) function.
 * Implements redirection operators ‘<’ and ‘>’
