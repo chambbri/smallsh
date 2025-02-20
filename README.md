@@ -3,9 +3,9 @@ Smallsh is a shell designed to function as a simple command line interface simil
 
 Smallsh does the following:
 
-Prints an interactive input prompt
-Parses command line input into semantic tokens
-Implements parameter expansion
+* Prints an interactive input prompt
+* Parses command line input into semantic tokens
+* Implements parameter expansion
 Handles shell special parameters $$, $?, and $!
 Tilde (~) expansion
 Implements two shell built-in commands: exit and cd
